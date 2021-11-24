@@ -1,0 +1,13 @@
+[{
+	"keyword": "atom",
+	"URL": "https://en.wikipedia.org/wiki/Atom",
+	"creator": "bob@bar.com"
+}, {
+	"keyword": "meter",
+	"URL": "https://en.wikipedia.org/wiki/Metre",
+	"creator": "alice@bar.com"
+}, {
+	"keyword": "cube",
+	"URL": "https://en.wikipedia.org/wiki/Cube",
+	"creator": "foo@bar.com"
+}]
