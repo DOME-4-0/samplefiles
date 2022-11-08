@@ -1,0 +1,91 @@
+[{
+		"id": "19673f513479e430dcadd58540ec4316",
+		"hasTitleData": "CMCL-weather",
+		"DataSet": "./weather.txt",
+		"hasKeywordData": "weather,showcase_1",
+		"hasDataCreator": "CMCL",
+		"hasDataPublisher": "DOME",
+		"hasIssueDate": "10/05/2022",
+		"hasURLData": "https://sintef.sharepoint.com/:f:/r/teams/DOME4.0/Delte%20dokumenter/WP4/T4.1%20Example%20files/Showcase%20%231%20(CMCL)?csf=1&web=1&e=o3BWXs"
+	},
+	{
+		"id": "712b01f74e81797ac6ef6e505e12a998",
+		"hasTitleData": "CMCL-ship",
+		"DataSet": "./ship.txt",
+		"hasKeywordData": "ship,showcase_1",
+		"hasDataCreator": "CMCL",
+		"hasDataPublisher": "DOME",
+		"hasIssueDate": "10/05/2022",
+		"hasURLData": "https://sintef.sharepoint.com/:f:/r/teams/DOME4.0/Delte%20dokumenter/WP4/T4.1%20Example%20files/Showcase%20%231%20(CMCL)?csf=1&web=1&e=o3BWXs"
+	},
+	{
+		"id": "19673f513479e430dcadd58540ec4317",
+		"hasTitleData": "Fraunhofer-model_training_data-Delaney",
+		"DataSet": "model_training_data",
+		"hasKeywordData": "model_training_data,Delaney,showcase_3",
+		"hasDataCreator": "Fraunhofer",
+		"hasDataPublisher": "DOME",
+		"hasIssueDate": "08/06/2022",
+		"hasURLData": "https://sintef.sharepoint.com/:f:/r/teams/DOME4.0/Delte%20dokumenter/WP4/T4.1%20Example%20files/Showcase%20%233%20(Fraunhofer)/model_training_data?csf=1&web=1&e=Dbybea"
+	},
+	{
+		"id": "712b01f74e81797ac6ef6e505e12a918",
+		"hasTitleData": "Fraunhofer-SMILES-smiles",
+		"DataSet": "SMILES",
+		"hasKeywordData": "SMILES,smiles,showcase_3",
+		"hasDataCreator": "Fraunhofer",
+		"hasDataPublisher": "DOME",
+		"hasIssueDate": "08/06/2022",
+		"hasURLData": "https://sintef.sharepoint.com/:f:/r/teams/DOME4.0/Delte%20dokumenter/WP4/T4.1%20Example%20files/Showcase%20%233%20(Fraunhofer)/SMILES?csf=1&web=1&e=82Xa4O"
+	},
+	{
+		"id": "19673f513479e430dcadd58540ec4316",
+		"hasTitleData": "UKRI-Molecular_Simulation-DL_input-LipidBilayer-Control",
+		"DataSet": "LipidBilayer",
+		"hasKeywordData": "Molecular_Simulation,LipidBilayer,Control,showcase_7",
+		"hasDataCreator": "UKRI",
+		"hasDataPublisher": "DOME",
+		"hasIssueDate": "18/06/2022",
+		"hasURLData": "https://sintef.sharepoint.com/:f:/r/teams/DOME4.0/Delte%20dokumenter/WP4/T4.1%20Example%20files/Showcase_%237_UKRI/Molecular_Simulation/DL_MESO_DPD_2.7_input_fileLipidBilayer?csf=1&web=1&e=uMHy8U"
+	},
+	{
+		"id": "712b01f74e81797ac6ef6e505e12a998",
+		"hasTitleData": "UKRI-Molecular_Simulation-DL_input-LipidBilayer-Field",
+		"DataSet": "LipidBilayer",
+		"hasKeywordData": "Molecular_Simulation,LipidBilayer,Field,showcase_7",
+		"hasDataCreator": "UKRI",
+		"hasDataPublisher": "DOME",
+		"hasIssueDate": "18/06/2022",
+		"hasURLData": "https://sintef.sharepoint.com/:f:/r/teams/DOME4.0/Delte%20dokumenter/WP4/T4.1%20Example%20files/Showcase_%237_UKRI/Molecular_Simulation/DL_MESO_DPD_2.7_input_fileLipidBilayer?csf=1&web=1&e=uMHy8U"
+	},
+	{
+		"id": "7951f8f8dd23e0412eae66b6d700ad48",
+		"hasTitleData": "UKRI-Chemeo-Cetrimonium_Bromide",
+		"DataSet": "Chemeo",
+		"hasKeywordData": "Chemeo,Cetrimonium Bromide,showcase_7",
+		"hasDataCreator": "UKRI",
+		"hasDataPublisher": "DOME",
+		"hasIssueDate": "22/11/2022",
+		"hasURLData": "https://sintef.sharepoint.com/:f:/r/teams/DOME4.0/Delte%20dokumenter/WP4/T4.1%20Example%20files/Showcase_%237_UKRI/Chemeo?csf=1&web=1&e=G7jT1U"
+	},
+	{
+		"id": "7951f8f8dd23e0412eae66b6d700ad49",
+		"hasTitleData": "UKRI-Chemeo-Export",
+		"DataSet": "Chemeo",
+		"hasKeywordData": "Chemeo,Export,showcase_7",
+		"hasDataCreator": "UKRI",
+		"hasDataPublisher": "DOME",
+		"hasIssueDate": "02/02/2022",
+		"hasURLData": "https://sintef.sharepoint.com/:f:/r/teams/DOME4.0/Delte%20dokumenter/WP4/T4.1%20Example%20files/Showcase_%237_UKRI/Chemeo?csf=1&web=1&e=G7jT1U"
+	},
+	{
+		"id": "7951f8f8dd23e0412eae66b6d700ad50",
+		"hasTitleData": "UKRI-Chemeo-response_example",
+		"DataSet": "Chemeo",
+		"hasKeywordData": "Chemeo,Response_example,showcase_7",
+		"hasDataCreator": "UKRI",
+		"hasDataPublisher": "DOME",
+		"hasIssueDate": "22/11/2022",
+		"hasURLData": "https://sintef.sharepoint.com/:f:/r/teams/DOME4.0/Delte%20dokumenter/WP4/T4.1%20Example%20files/Showcase_%237_UKRI/Chemeo?csf=1&web=1&e=G7jT1U"
+	}
+]
